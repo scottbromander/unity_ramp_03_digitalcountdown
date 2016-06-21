@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{7AF598B6-99D1-0258-5752-01814F086FD2}") = "Unity_DigitalClock CountDown", "Assembly-CSharp.csproj", "{85489D2E-8610-DBE9-D406-E989FCFB225E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85489D2E-8610-DBE9-D406-E989FCFB225E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85489D2E-8610-DBE9-D406-E989FCFB225E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85489D2E-8610-DBE9-D406-E989FCFB225E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85489D2E-8610-DBE9-D406-E989FCFB225E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
